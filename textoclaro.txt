@@ -1,0 +1,8 @@
+O conteúdo a ser cifrado deve estar em modo texto;
+A codificação numérica pode seguir a Tabela ASCII;
+Utilizar a linguagem de sua preferência, mas tenho preferência por C ou Python;
+Não há necessidade de interface gráfica avançada, podendo o uso da cifra ocorrer em linha de comando;
+O programa deve operar com arquivos de entrada e saída em disco;
+O comando de cifração deve deve ser similar a $ cifrahill -enc textoclaro.txt -out textocifrado.txt;
+O comando de decifração deve ser similar a $ cifrahill -dec textocifrado.txt -out textoclaro.txt;
+O código-fonte deve estar comentado e a forma de executá-lo em linha de comando deve constar em comentário no código-fonte;
